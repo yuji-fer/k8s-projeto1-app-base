@@ -1,5 +1,5 @@
 <?php
-$servername = "";
+$servername = "projeto-mysql-clusterip";
 $username = "root";
 $password = "Senha123";
 $database = "meubanco";
